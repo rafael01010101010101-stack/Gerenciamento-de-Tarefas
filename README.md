@@ -1,4 +1,4 @@
-# Gerenciamento-de-Tarefas# Gerenciamento de Tarefas com Lista Ligada em C
+# Gerenciamento de Tarefas com Lista Ligada em C
 
 ## Descrição
 
